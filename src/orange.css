@@ -1,0 +1,9 @@
+.oranges {
+  padding: 20px;
+}
+
+.store {
+  display: grid;
+  grid-template-columns: 500px 200px;
+  column-gap: 20px;
+}

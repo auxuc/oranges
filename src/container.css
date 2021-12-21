@@ -1,0 +1,11 @@
+.containers {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  row-gap: 20px;
+  column-gap: 20px;
+}
+
+.containers > div {
+  padding: 20px;
+  border: 1px solid black;
+}
